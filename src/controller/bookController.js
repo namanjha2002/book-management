@@ -9,6 +9,7 @@ module.exports.addBook = async(req,res)=>{
               
               ISBN,
               category,
+              naman,
               author,
               
               publicationYear,
